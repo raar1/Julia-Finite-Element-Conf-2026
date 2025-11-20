@@ -1,6 +1,6 @@
 alerts:
   - title: "Note"
-    text: Registration is open.
+    text: Registration is not yet open.
     color: green-1
 buttons:
   - text: GitHub
