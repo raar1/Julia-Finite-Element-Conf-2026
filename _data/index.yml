@@ -3,6 +3,6 @@ alerts:
     text: Registration is not yet open.
     color: green-1
 buttons:
-  - text: GitHub
+  - text: Register here
     url: https://github.com/raar1/HP2SIM-Conference-2026
-    disabled: false
+    disabled: true
