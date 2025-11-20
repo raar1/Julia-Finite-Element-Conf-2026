@@ -1,0 +1,24 @@
+legend:
+  title: Legend
+  categories:
+    - name: Category A
+      color: blue-6
+    - name: Category B
+      color: red-6
+days:
+  - name: Day 1
+    events:
+      - time: 8:00 to 9:00
+        title: Registration and coffee
+        category: Category A
+      - time: 13:00 to 14:00
+        title: Lunch break
+        category: Category B
+  - name: Day 2
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
+        category: Category A
+      - time: 18:00 to 19:00
+        title: Closing
+        category: Category B

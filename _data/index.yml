@@ -1,0 +1,13 @@
+alerts:
+  - title: "Note"
+    text: Registration is open.
+    color: green-1
+buttons:
+  - text: GitHub
+    url: https://github.com/raar1/HP2SIM-Conference-2026
+    disabled: false
+  - text: RubyGem
+    url: https://rubygems.org/gems/jekyll-nagymaros
+    disabled: false
+  - text: Disabled
+    disabled: true

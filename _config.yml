@@ -1,0 +1,25 @@
+title: Julia Finite Element Community Conference
+description: Vrije Universiteit Amsterdam - 26-27 March 2026
+baseurl: /jekyll-nagymaros
+url: https://piazzai.github.io
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+copyright: Robin Richardson, Francesc Verdugo
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
