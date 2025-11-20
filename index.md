@@ -3,7 +3,7 @@ layout: index
 description: Vrije Universiteit Amsterdam - 26-27 March 2026
 ---
 
-![Workshop image](/assets/workshopimg.png)
+![Workshop image](assets/workshopimg.png)
 
 In this workshop, we will gather the scientific community using the Julia programming
 language for the numerical solution of Partial Differential equations (PDEs). This is a diverse
