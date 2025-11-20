@@ -1,17 +1,23 @@
 groups:
   - title: Organizers
-    sort: false
-    columns: false
+    sort: true
+    columns: true
     members:
-      - name: Francesc
-        surname: Verdugo
-        affil: Vrij Universiteit Amsterdam
-      - name: Robin
-        surname: Richardson
-        affil: Netherlands eScience Center
       - name: Oriol
         surname: Colomes
         affil: TU Delft
+      - name: Artur
+        surname: Palha
+        affil: TU Delft
+      - name: Robin
+        surname: Richardson
+        affil: Netherlands eScience Center
+      - name: Deepesh
+        surname: Toshniwal
+        affil: TU Delft
+      - name: Francesc
+        surname: Verdugo
+        affil: Vrij Universiteit Amsterdam
   - title: Confirmed Keynote Speakers
     sort: true
     columns: true
