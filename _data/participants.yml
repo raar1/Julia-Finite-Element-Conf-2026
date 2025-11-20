@@ -9,6 +9,9 @@ groups:
       - name: Robin
         surname: Richardson
         affil: Netherlands eScience Center
+      - name: Oriol
+        surname: Colomes
+        affil: TU Delft
   - title: Confirmed Keynote Speakers
     sort: true
     columns: true
