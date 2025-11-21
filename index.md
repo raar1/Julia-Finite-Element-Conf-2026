@@ -17,8 +17,9 @@ community, learn from each other, and identify opportunities for collaboration.
 * **When**: 26-27 March 2026
 * **Who**: Confirmed keynote speakers and organizing committee [here](/participants).
 
-### Abstract submission
+---
+
+### Registration and Abstract submission
 If you would like to be considered for a short presentation, please send a (max) 250 word abstract to <abstracts@someemaildomain.nl>
 
-### Registration
 You can register via Eventbrite:
