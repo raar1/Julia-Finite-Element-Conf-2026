@@ -1,24 +1,49 @@
 legend:
   title: Legend
   categories:
-    - name: Category A
-      color: blue-6
-    - name: Category B
+    - name: Break
+      color: yellow-6
+    - name: Session
+      color: green-6
+    - name: Tutorial
       color: red-6
 days:
   - name: Day 1
     events:
-      - time: 8:00 to 9:00
-        title: Registration and coffee
-        category: Category A
-      - time: 13:00 to 14:00
-        title: Lunch break
-        category: Category B
+      - time: 10:00 to 10:30
+        title: Registration & coffee
+        category: Break
+      - time: 10:30 to 12:00
+        title: Talks
+        category: Session
+      - time: 12:00 to 13:00
+        title: Lunch
+        category: Break
+      - time: 13:00 to 14:30
+        title: Talks
+        category: Session
+      - time: 14:30 to 15:00
+        title: Coffee break
+        category: Break
+      - time: 15:00 to 16:30
+        title: Talks
+        category: Session
+      - time: 16:30 to 17:30
+        title: Drinks
+        category: Break
   - name: Day 2
     events:
-      - time: 8:00 to 9:00
-        title: Coffee
-        category: Category A
-      - time: 18:00 to 19:00
-        title: Closing
-        category: Category B
+      - time: 10:00 to 10:30
+        title: Walk-in and Coffee
+        category: Break
+      - time: 10:30 to 12:00
+        title: Talks
+        category: Session
+      - time: 12:00 to 13:00
+        title: Lunch
+        category: Break
+      - time: 13:00 to 14:30
+        title: GalerkinToolkit.jl tutorial
+        category: Tutorial
+
+
