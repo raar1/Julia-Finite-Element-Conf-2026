@@ -27,13 +27,16 @@ groups:
         affil: TU Delft
       - name: Bernal
         surname: Font
+        affil: TU Delft
       - name: Knut A.
         surname: Meyer
+        affil: Chalmers University of Technology
       - name: Artur
         surname: Palha
         affil: TU Delft
       - name: Ludovic
         surname: Raess
+        affil: UNIL
       - name: Deepesh
         surname: Toshniwal
         affil: TU Delft
@@ -42,3 +45,4 @@ groups:
         affil: Vrije Universiteit Amsterdam
       - name: Andrew
         surname: Winters
+        affil: LIU
