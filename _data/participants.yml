@@ -1,7 +1,7 @@
 groups:
   - title: Organizers
     sort: true
-    columns: true
+    columns: false
     members:
       - name: Oriol
         surname: Colomes
