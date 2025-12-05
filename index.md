@@ -13,7 +13,7 @@ A central theme will be to align efforts within the
 community, learn from each other, and identify opportunities for collaboration.
 
 * **When**: 26-27 March 2026
-* **Where**: Vrij Universiteit Amsterdam, NU building. See on the map [here](map/).
+* **Where**: Vrije Universiteit Amsterdam, NU building. See on the map [here](map/).
 * **What**: See the preliminary program [here](program/)
 * **Who**: Confirmed keynote speakers and organizing committee [here](participants/).
 

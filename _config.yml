@@ -1,4 +1,4 @@
-title: Julia Finite Element Community Conference
+title: Julia4PDEs-2026
 description: Vrije Universiteit Amsterdam - 26-27 March 2026
 baseurl: Julia4PDEs-2026/
 url: https://galerkintoolkit.github.io/
@@ -7,7 +7,7 @@ permalink: pretty
 theme: jekyll-nagymaros
 
 home: /
-copyright: Robin Richardson, Francesc Verdugo
+copyright: Netherlands eScience Center, Vrije Universiteit Amsterdam
 indexing: true
 
 exclude:

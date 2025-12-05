@@ -17,24 +17,28 @@ groups:
         affil: TU Delft
       - name: Francesc
         surname: Verdugo
-        affil: Vrij Universiteit Amsterdam
+        affil: Vrije Universiteit Amsterdam
   - title: Confirmed Keynote Speakers
     sort: true
     columns: true
     members:
       - name: Oriol
         surname: Colomes
+        affil: TU Delft
       - name: Bernal
         surname: Font
       - name: Knut A.
         surname: Meyer
       - name: Artur
         surname: Palha
+        affil: TU Delft
       - name: Ludovic
         surname: Raess
       - name: Deepesh
         surname: Toshniwal
+        affil: TU Delft
       - name: Francesc
         surname: Verdugo
+        affil: Vrije Universiteit Amsterdam
       - name: Andrew
         surname: Winters

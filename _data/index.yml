@@ -4,5 +4,5 @@ alerts:
     color: green-1
 buttons:
   - text: Register here
-    url: https://github.com/raar1/HP2SIM-Conference-2026
+    url: https://github.com/GalerkinToolkit/Julia4PDEs-2026
     disabled: true
