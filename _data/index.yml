@@ -5,7 +5,7 @@ alerts:
 buttons:
   - text: Register here
     url: https://forms.gle/evtrn9vxM1RipT3D6
-    disabled: true
+    disabled: false
   - text: Submit abstract
     url: https://forms.gle/LM3wrTUXCkdGGrtn6
-    disabled: true
+    disabled: false
