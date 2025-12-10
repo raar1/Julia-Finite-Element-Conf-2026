@@ -40,8 +40,9 @@ If you would like to be considered for one of these talks, please send a (max) 2
  HPC, the tool needed to solve PDEs, or its usage in practical applications and teaching related to PDEs.
 You should also register for the workshop.
 
-* **Registration and abstract submission closes on TBD.**
-* Abstract acceptance will be notified on TBD.
+* **Abstract submission closes on TBD.**
+* **Abstract acceptance will be notified on TBD.**
+* **Registration closes on TBD.**
 
 
 
