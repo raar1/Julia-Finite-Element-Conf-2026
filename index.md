@@ -37,7 +37,7 @@ In addition to the keynote talks by invited speakers, the workshop will feature
 contributed talks (15' + 5' Q&A).
 If you would like to be considered for one of these talks, please send a (max) 250 word abstract.
  The topic of the presentation is open as long as it has some connection to the Julia programming language,
- HPC, the tool needed to solve PDEs, or its usage in practical applications and teaching related to PDEs.
+ HPC, the tooling needed to solve PDEs, or its usage in practical applications and teaching related to PDEs.
 You should also register for the workshop.
 
 * **Abstract submission closes on TBD.**
