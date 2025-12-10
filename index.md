@@ -16,10 +16,13 @@ community, learn from each other, and identify opportunities for collaboration.
 * **Where**: Vrije Universiteit Amsterdam, NU building. See on the map [here](map/).
 * **What**: See the preliminary program [here](program/)
 * **Who**: Confirmed keynote speakers and organizing committee [here](participants/).
+* **How**: Registration and abstract submission for presentations [here](registration/)
 
 ---
 
-### Registration and Abstract submission
-If you would like to be considered for a short presentation, please send a (max) 250 word abstract to <abstracts@someemaildomain.nl>
+### Registration
+Registration for this workshop is **free**. Lunch will be provided by the venue.
 
-You can register via Eventbrite:
+If you would also like to give a talk, submit an abstract [here](registration/).
+
+Please register using the following link:
