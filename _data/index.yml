@@ -4,5 +4,5 @@ alerts:
     color: green-1
 buttons:
   - text: Register here
-    url: https://github.com/GalerkinToolkit/Julia4PDEs-2026
+    url: https://forms.gle/evtrn9vxM1RipT3D6
     disabled: true
