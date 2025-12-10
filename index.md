@@ -21,7 +21,6 @@ a new multi-platform finite element library in Julia. The program will include a
 * **Who**: Confirmed keynote speakers and organizing committee [here](participants/).
 * **How**: Registration and (optional) abstract submission for presentations are detailed below.
 
----
 
 ### Acknowledgment
 
@@ -30,17 +29,11 @@ This workshop is funded by the [Netherlands eScience Center](https://www.escienc
 
 ---
 
-### Call for abstracts
+### Registration and call for abstracts
 
-In addition to the keynote talks by invited speakers, the workshop will feature contributed talks.
-If you would like to be considered for one of these talks, please send a (max) 250 word abstract
-by filling in [this form](https://forms.gle/LM3wrTUXCkdGGrtn6).
-
-You should also register for the workshop.
-
----
-
-### Registration
 Registration for this workshop is **free**. Lunch will be provided by the venue.
 
-Please register using the following link:
+In addition to the keynote talks by invited speakers, the workshop will feature contributed talks.
+If you would like to be considered for one of these talks, please send a (max) 250 word abstract.
+You should also register for the workshop.
+
