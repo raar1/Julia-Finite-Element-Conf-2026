@@ -5,12 +5,19 @@ description: Vrije Universiteit Amsterdam - 26-27 March 2026
 
 ![Workshop image](assets/workshopimg.png)
 
-We will gather the scientific community using the Julia programming
+This 2-day workshop will gather the scientific community using the Julia programming
 language for the numerical solution of Partial Differential equations (PDEs). This is a diverse
 community that includes researchers from different domains such as applied mathematics,
-HPC, as well as applications like aerospace, civil engineering, and computational physics.
+HPC, and scientific applications.
 A central theme will be to align efforts within the
 community, learn from each other, and identify opportunities for collaboration.
+The event will feature keynote talks by representatives of Julia packages in this space such as
+[Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl),
+[Gridap.jl](https://github.com/gridap/Gridap.jl),
+[ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl),
+[Mantis.jl](https://github.com/MantisFEM/Mantis.jl),
+[Trixi.jl](https://github.com/trixi-framework/Trixi.jl), and
+[WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl).
 
 This workshop is hosted by the team developing [GalerkinToolkit.jl](https://github.com/GalerkinToolkit/GalerkinToolkit.jl),
 a new multi-platform finite element library in Julia. The program will include a demo tutorial about this package.
